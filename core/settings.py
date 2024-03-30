@@ -28,7 +28,7 @@ default_value = {
     'onedrive_password': '',
     'onedrive_root_path': 'filebox_storage',
     'onedrive_proxy': 0,
-    'admin_token': 'FileCodeBox2023',
+    'admin_token': 'FCB8264248go',
     'openUpload': 1,
     'uploadSize': 1024 * 1024 * 1000,
     'uploadMinute': 1,
