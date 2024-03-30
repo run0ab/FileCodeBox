@@ -33,7 +33,7 @@ default_value = {
     'uploadSize': 1024 * 1024 * 1000,
     'uploadMinute': 1,
     'opacity': 0.9,
-    'background': 'https://dashboard.render.com/fcb/background.jpg',
+    'background': 'https://picsever.onrender.com/fcb/background.jpg',
     'uploadCount': 10,
     'errorMinute': 1,
     'errorCount': 1,
